@@ -1,0 +1,9 @@
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\bin\Debug\Project Doorbell.exe.config
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\bin\Debug\Project Doorbell.exe
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\bin\Debug\Project Doorbell.pdb
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\obj\Debug\Project_Doorbell.Properties.Resources.resources
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\obj\Debug\Project Doorbell.csproj.GenerateResource.Cache
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\obj\Debug\Project Doorbell.exe
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\obj\Debug\Project Doorbell.pdb
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\obj\Debug\Project Doorbell.csprojResolveAssemblyReference.cache
+d:\users\leroy\documents\visual studio 2013\Projects\Project Doorbell\Project Doorbell\obj\Debug\Project_Doorbell.MenuForm.resources
